@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buenas a todes! 👋
 ![dev_gif](https://i.imgur.com/Aweqm75.gif?noredirect)
 <!--
 **LenaMatoi/LenaMatoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
