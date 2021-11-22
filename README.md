@@ -1,5 +1,5 @@
 ### Hi! 👋
-![dev_gif](https://i.imgur.com/Aweqm75.gif?noredirect)
+![dev_gif](https://i.pinimg.com/originals/10/3e/32/103e32022448aead283057fc37e0609c.gif)
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on ALI.A and Dev OriginalSpainRP
 - 🌱 I’m currently learning: Python, Javascript, C/C++.
